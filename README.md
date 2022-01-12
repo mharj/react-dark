@@ -27,7 +27,7 @@ Provider can have initialValue={true/false} attribute
 ### withDarkMode wrapper
 
 ```JSX
-class SomeComponent extends React.Component<IWithDarkMode> {
+class SomeComponent extends React.Component<WithDarkMode> {
 	public render() {
 		return <>Dark Mode: {this.props.isDarkMode ? 'true' : 'false'}</>;
 	}
