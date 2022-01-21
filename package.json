@@ -1,6 +1,6 @@
 {
     "name": "mharj-react-dark",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "React Dark",
     "main": "./lib/cjs/index.js",
     "module": "./lib/esm/index.js",
